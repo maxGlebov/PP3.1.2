@@ -1,0 +1,20 @@
+# IntelliJ
+.idea/
+*.iml
+*.iws
+out/
+target/
+
+# Logs
+*.log
+
+# Local configuration (не коммитим пароли!)
+src/main/resources/application.properties
+src/main/resources/application.yml
+
+# Maven
+target/
+
+# OS
+.DS_Store
+Thumbs.db
